@@ -1,6 +1,6 @@
 name: Build, test, package
 
-on: [push,pull_request]
+on: push
 
 jobs:
   cxx-build-workflow:
